@@ -1,2 +1,2 @@
-# DevopsProject
-CI/CD Automation using jenkins and AWS
+# WeatherForecasting
+weather forecast website using Html,Css,Javascript
